@@ -1,0 +1,180 @@
+body{
+    color:#40514E;
+    margin: 0px;
+    text-align: center;
+    font-family:'Merriweather',serif;
+
+}
+p{
+    line-height:2;
+    font-size:1.2rem;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom:none;
+    width:5%;
+    margin:100px auto 100px auto;
+}
+h1{
+    font-size:5rem;
+    margin:50 auto 0 auto;
+    font-family:'Sacramento',cursive;
+    color:#66BFBF;
+    
+}
+h2{
+    font-family:'Montserrat',sans-serif;
+    font-size:2.2rem;
+    color:#66BFBF;
+    font-weight:normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family:'Montserrat',sans-serif;
+    color:#11999E;
+    font-size:1.9rem;
+}
+.top-container{
+    background-color: #e4f4f5;
+    padding-top:100px;
+    position:relative;
+    
+}
+.top-cloud{
+    position:absolute;
+    right:270px;
+    top:45px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:250px;
+    /* bottom:300px; */
+}
+.middle-container{
+    margin:100px auto 100px auto;
+    
+}
+.profilepng{
+    
+    width:200px;
+    height: 150px;
+}
+.bottom-container{
+    background-color:#66bfbf;
+    padding: 0.8%;
+    
+}
+.copyright{
+    color:#eaf6f6;
+    font-size:1rem;
+    /* padding-top: 0px; */
+    /* padding-bottom: 0px; */
+    margin-bottom: 0px/
+
+}
+.skill-image{
+    height: 2;
+    width:5rem;
+    text-align:center;
+    margin: auto;
+}
+.intro{
+    width:45%;
+    margin:auto;
+}
+a{
+    color:#11999E;
+}
+.contact-me{
+    width: 45%;
+    margin: 40px auto 60px auto;
+  
+
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .skill-row{
+    width:50%;
+    text-align:center;
+    margin:100px auto 100px auto;
+    padding-top:3.25rem;
+    padding-bottom:3.25rem;
+}
+  .project-image1{
+
+    float:left;
+    width:10rem;
+  }
+  .project-text1{
+    text-align:left;
+    padding-top:20px;
+    padding-left:10rem;
+    padding-bottom:40px;
+  }
+  .project-image2{
+    float: right;
+    width:12rem;
+
+  }
+  .project-text2{
+    text-align:left;
+    padding-top:40px;
+    padding-bottom:40px;
+    margin:auto;
+  }
+  .project-image3{
+    float:left;
+    width:12rem;
+
+  }
+  .project-text3{
+    text-align:left;
+    padding-top:40px;
+    padding-bottom:40px;
+    margin:auto;
+  }
+  .project-image4{
+    float: right;
+    width:12rem;
+
+  }
+  .project-text4{
+    text-align:left;
+    padding-top:40px;
+    padding-bottom:40px;
+    margin:auto;
+  }
+ 
+ /* contact image */
+
+ .contact-icon1{
+  padding:1%;
+ }
+ .contact-icon2{
+  padding:1%;
+ }
