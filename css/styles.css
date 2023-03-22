@@ -2,6 +2,7 @@ body{
     color:#40514E;
     margin: 0px;
     text-align: center;
+
     font-family:'Merriweather',serif;
 
 }
@@ -88,9 +89,36 @@ a{
 .contact-me{
     width: 45%;
     margin: 40px auto 60px auto;
-  
-
 }
+
+/****  GAME PAGE   *****/
+.game{
+  font-size: 3rem;
+}
+btn2{
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 1px #706f70;
+  font-family: Georgia;
+  color: #66BFBF;
+  font-size: 35px;
+  padding: 4px 23px 6px 23px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #92d3fc;
+  background-image: -webkit-linear-gradient(top, #92d3fc, #83c9f7);
+  background-image: -moz-linear-gradient(top, #92d3fc, #83c9f7);
+  background-image: -ms-linear-gradient(top, #92d3fc, #83c9f7);
+  background-image: -o-linear-gradient(top, #92d3fc, #83c9f7);
+  background-image: linear-gradient(to bottom, #92d3fc, #83c9f7);
+  text-decoration: none;
+}
+
+
+/* ******************************** */
 
 .btn {
     background: #3498db;
